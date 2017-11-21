@@ -1,0 +1,3 @@
+/Users/due/cmake_tutorial/basic_starting_point_2/CMakeFiles/rebuild_cache.dir
+/Users/due/cmake_tutorial/basic_starting_point_2/CMakeFiles/edit_cache.dir
+/Users/due/cmake_tutorial/basic_starting_point_2/CMakeFiles/Tutorial.dir

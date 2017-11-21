@@ -1,0 +1,14 @@
+/Users/due/cmake_tutorial/install_and_test/CMakeFiles/install/local.dir
+/Users/due/cmake_tutorial/install_and_test/CMakeFiles/install/strip.dir
+/Users/due/cmake_tutorial/install_and_test/CMakeFiles/Tutorial.dir
+/Users/due/cmake_tutorial/install_and_test/CMakeFiles/install.dir
+/Users/due/cmake_tutorial/install_and_test/CMakeFiles/list_install_components.dir
+/Users/due/cmake_tutorial/install_and_test/CMakeFiles/rebuild_cache.dir
+/Users/due/cmake_tutorial/install_and_test/CMakeFiles/edit_cache.dir
+/Users/due/cmake_tutorial/install_and_test/MathFunctions/CMakeFiles/install/local.dir
+/Users/due/cmake_tutorial/install_and_test/MathFunctions/CMakeFiles/rebuild_cache.dir
+/Users/due/cmake_tutorial/install_and_test/MathFunctions/CMakeFiles/edit_cache.dir
+/Users/due/cmake_tutorial/install_and_test/MathFunctions/CMakeFiles/install/strip.dir
+/Users/due/cmake_tutorial/install_and_test/MathFunctions/CMakeFiles/install.dir
+/Users/due/cmake_tutorial/install_and_test/MathFunctions/CMakeFiles/list_install_components.dir
+/Users/due/cmake_tutorial/install_and_test/MathFunctions/CMakeFiles/MathFunctions.dir

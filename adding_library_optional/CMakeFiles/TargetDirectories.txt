@@ -1,0 +1,6 @@
+/Users/due/cmake_tutorial/adding_library_optional/CMakeFiles/rebuild_cache.dir
+/Users/due/cmake_tutorial/adding_library_optional/CMakeFiles/edit_cache.dir
+/Users/due/cmake_tutorial/adding_library_optional/CMakeFiles/Tutorial.dir
+/Users/due/cmake_tutorial/adding_library_optional/MathFunctions/CMakeFiles/rebuild_cache.dir
+/Users/due/cmake_tutorial/adding_library_optional/MathFunctions/CMakeFiles/edit_cache.dir
+/Users/due/cmake_tutorial/adding_library_optional/MathFunctions/CMakeFiles/MathFunctions.dir
